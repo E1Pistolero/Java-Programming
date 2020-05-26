@@ -1,5 +1,5 @@
 /*
-* Author : Milica Knezevic, mknezevic2013@my.fit.edu
+* Author : Skyler Knezevic, mknezevic2013@my.fit.edu
 * Course : CSE 2010, Section 06, Fall 2014
 * Project: lab 6, ExternalSort
 */
